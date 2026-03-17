@@ -1,40 +1,42 @@
-#include <bits/stdc++.h>
-using namespace std;
-#define int long long
-#define ll long long
-#define mod 1000000007
-void solve()
-{
-    int n;
-    string s;
-    cin>>n>>s;
-    int maxi = 0, mini= 0;
-    for (int i = 1; i < n-1; i++)
-    {
-        if(s[i-1]=='1'&&s[i+1]=='1') s[i] = '1';
-    }
-    for (int i = 0; i < n; i++)
-    {
-        int ct = 0;
-        while(i<n&&s[i]=='1') {
-            ct++;
-            i++;
-        }
-        maxi += ct;
-        if(ct>2)
-        mini += ct - (ct-1)/2;
-        else mini += ct;
-    }
-    cout<<mini<<" "<<maxi<<endl;
-}
-signed main() {
+set ns [new Simulator]
 
-    ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
-    ll test=1;
-cin>>test;
-    while(test--)
-    {
-        solve();
-    }
-    return 0;
+set tracefile [open exp3.tr w]
+$ns trace-all $tracefile
+
+set namfile [open exp3.nam w]
+$ns namtrace-all $namfile
+
+for {set i 0} {$i < 7} {incr i} {
+    set n($i) [$ns node]
 }
+
+for {set i 0} {$i < 6} {incr i} {
+    $ns duplex-link $n($i) $n([expr $i+1]) 1Mb 10ms DropTail
+}
+
+set udp [new Agent/UDP]
+$ns attach-agent $n(0) $udp
+
+set null [new Agent/Null]
+$ns attach-agent $n(6) $null
+
+$ns connect $udp $null
+
+set cbr [new Application/Traffic/CBR]
+$cbr set packetSize_ 1000
+$cbr set rate_ 1Mb
+$cbr attach-agent $udp
+
+$ns at 0.5 "$cbr start"
+$ns at 25.0 "finish"
+
+proc finish {} {
+    global ns tracefile namfile
+    $ns flush-trace
+    close $tracefile
+    close $namfile
+    exec nam exp3.nam &
+    exit 0
+}
+
+$ns run
