@@ -5,19 +5,21 @@ using namespace std;
 #define mod 1000000007
 void solve()
 {
-    int n ;
+    int n;
     cin>>n;
     vector<int> v(n);
+    int ans = 0;
     for (int i = 0; i < n; i++)
     {
         cin>>v[i];
+
     }
 
-    for (in i = 0; i < count; i++)
+    for (int i = 0; i < n-1; i++)
     {
-        
+        if(abs(v[i] - v[i+1]) == __gcd(v[i],v[i+1])) ans++;
     }
-    
+    cout<<ans<<endl;
 
 }
 signed main() {

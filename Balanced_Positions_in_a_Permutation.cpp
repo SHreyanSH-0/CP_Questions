@@ -5,20 +5,24 @@ using namespace std;
 #define mod 1000000007
 void solve()
 {
-    int n ;
+    int n;
     cin>>n;
     vector<int> v(n);
     for (int i = 0; i < n; i++)
     {
         cin>>v[i];
     }
-
-    for (in i = 0; i < count; i++)
+    int ans = 0;
+    for (int i = 0; i < n; i++)
     {
-        
+        int l = 0, r = 0;
+        for(int j=0;j<i;j++) if(v[i]>v[j]) l++;
+        for(int j=i+1;j<n;j++) if(v[i]<v[j]) r++;
+        if(l==r) ans++;
     }
+    cout<<ans<<endl;
     
-
+    
 }
 signed main() {
 

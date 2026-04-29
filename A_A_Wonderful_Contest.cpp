@@ -5,20 +5,22 @@ using namespace std;
 #define mod 1000000007
 void solve()
 {
-    int n ;
+    int n;
     cin>>n;
     vector<int> v(n);
     for (int i = 0; i < n; i++)
     {
         cin>>v[i];
     }
-
-    for (in i = 0; i < count; i++)
+    for (int i = 0; i < n; i++)
     {
-        
+        if(v[i]==100){
+            cout<<"YES"<<endl;
+            return;
+        }
     }
+    cout<<"NO"<<endl;
     
-
 }
 signed main() {
 

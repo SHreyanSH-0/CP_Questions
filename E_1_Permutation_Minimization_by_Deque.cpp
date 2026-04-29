@@ -5,20 +5,27 @@ using namespace std;
 #define mod 1000000007
 void solve()
 {
-    int n ;
+    int n;
     cin>>n;
-    vector<int> v(n);
+    vector<int>v(n);
     for (int i = 0; i < n; i++)
     {
         cin>>v[i];
     }
-
-    for (in i = 0; i < count; i++)
+    deque<int> dq;
+    for (int i = 0; i < n; i++)
     {
-        
+        if(dq.empty()) dq.push_back(v[i]);
+        else{
+            if(dq[0]>=v[i]) dq.push_front(v[i]);
+            else dq.push_back(v[i]);
+        }
     }
+    for (int i = 0; i < n; i++)
+    {
+        cout<<dq[i]<<" ";
+    }cout<<endl;
     
-
 }
 signed main() {
 

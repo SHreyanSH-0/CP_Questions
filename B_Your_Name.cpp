@@ -3,21 +3,20 @@ using namespace std;
 #define int long long
 #define ll long long
 #define mod 1000000007
-void solve()
-{
-    int n ;
-    cin>>n;
-    vector<int> v(n);
-    for (int i = 0; i < n; i++)
-    {
-        cin>>v[i];
-    }
 
-    for (in i = 0; i < count; i++)
-    {
-        
-    }
+void YourName()
+{
+    int n;
+    string s,t;
+    cin>>n>>s>>t;
+    sort(s.begin(), s.end());
+    sort(t.begin(), t.end());
     
+    if (s == t) {
+        cout << "YES\n";
+    } else {
+        cout << "NO\n";
+    }
 
 }
 signed main() {
@@ -27,7 +26,7 @@ signed main() {
 cin>>test;
     while(test--)
     {
-        solve();
+        YourName();
     }
     return 0;
 }

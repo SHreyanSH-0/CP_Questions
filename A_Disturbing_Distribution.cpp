@@ -2,23 +2,34 @@
 using namespace std;
 #define int long long
 #define ll long long
-#define mod 1000000007
+#define mod 676767677
 void solve()
 {
-    int n ;
+    int n;
     cin>>n;
     vector<int> v(n);
+    int ans = 0;
+    int ct = 0;
     for (int i = 0; i < n; i++)
     {
-        cin>>v[i];
+        cin>>v[i];;
     }
 
-    for (in i = 0; i < count; i++)
+    int idx = -1;
+
+    for (int i = 0; i < n; i++)
     {
-        
+        if(v[i]==1) idx = i;
+        else ans += v[i];
     }
-    
 
+    if(idx==n-1){
+        cout<<ans+1<<endl;
+    }
+    else cout<<ans<<endl;
+    
+    
+    
 }
 signed main() {
 

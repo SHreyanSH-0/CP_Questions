@@ -8,16 +8,36 @@ void solve()
     int n,k;
     cin>>n>>k;
     vector<int> a(n), b(n);
-    for(int i=0;i<n;i++) cin>>a[i];
-    for(int i=0;i<n;i++) cin>>b[i];
+    set<int> s;
+    int ans = 0;
+    for(int i=0;i<n;i++){
+        cin>>a[i];
+        s.insert(a[i]);
+    } 
+    for(int i=0;i<n;i++){
+        cin>>b[i];
+        s.insert(b[i]);
+    } 
 
-    while (low<high)
-    {
-        
+    sort(b.begin(),b.end());
+    sort(a.begin(),a.end());
+
+    for(auto &it : s){
+        int idx1 = lower_bound(b.begin(),b.end(),it) - b.begin();
+        int idx2 = lower_bound(a.begin(),a.end(),it) - a.begin();
+        int b = n - idx1;
+        int neg = idx2 - (n - b);
+        if(idx2 > n) idx2 = n;
+        if(idx2<=n&&idx1<n){
+            if(neg<=k){
+                ans = max(ans, b * it);
+            }
+        }
+
     }
 
     
-    
+    cout<<ans<<endl;
 }
 signed main() {
 

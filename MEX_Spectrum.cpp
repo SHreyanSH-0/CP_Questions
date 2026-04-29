@@ -5,20 +5,28 @@ using namespace std;
 #define mod 1000000007
 void solve()
 {
-    int n ;
+    int n;
     cin>>n;
     vector<int> v(n);
+    map<int,int> map;
     for (int i = 0; i < n; i++)
     {
         cin>>v[i];
-    }
 
-    for (in i = 0; i < count; i++)
+        map[v[i]]++;
+    }
+    int ct = 0;
+    for (int k = 0; k <= n; k++)
     {
-        
-    }
-    
 
+        int hold = map[k];
+        if(ct<=hold) cout<<hold<<" ";
+        else cout<< ct<<" ";
+        if(map[k]==0) ct++;
+    }
+    cout<<endl;
+    
+    
 }
 signed main() {
 
