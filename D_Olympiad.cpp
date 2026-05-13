@@ -1,0 +1,57 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define int long long
+#define ll long long
+#define mod 1000000007
+void solve()
+{
+    int n,x;
+    cin>>n>>x;
+    multiset<int> a,b;
+    for (int i = 0; i < n; i++)
+    {
+        int hold ;
+        cin>>hold;
+        a.insert(hold);
+    }
+    for (int i = 0; i < n; i++)
+    {
+        int hold ;
+        cin>>hold;
+        b.insert(hold);
+    }
+    int ans = 0;
+    
+    vector<int> points;
+
+    for(auto&i:a){
+        auto it = b.lower_bound(x - i);
+        if(it==b.end()){
+            it = b.begin();
+        }
+
+        points.push_back(i + *it);
+        b.erase(it);
+    }
+
+    sort(points.rbegin(),points.rend());
+
+    for(int i=0;i<n;i++){
+        if(points[i]>=x) ans = i + 1;
+    }
+    
+
+    cout<<1<<" "<<ans<<endl;
+    
+}
+signed main() {
+
+    ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
+    ll test=1;
+// cin>>test;
+    while(test--)
+    {
+        solve();
+    }
+    return 0;
+}

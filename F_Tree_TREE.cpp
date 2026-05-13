@@ -22,7 +22,6 @@ int dfs(vector<vector<int>> &v,int node, int par,int &ans, int k){
     {
         if(v.size() - 1 - ct[i] - 1>=k-1) ans = ans + (ct[i]);
     }
-    
     return ansIn;
 }
 
