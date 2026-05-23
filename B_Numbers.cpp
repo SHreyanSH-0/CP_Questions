@@ -3,40 +3,77 @@ using namespace std;
 #define int long long
 #define ll long long
 #define mod 1000000007
+int dp[10][101];
+int f(int n){
+    int ans = 1;
+    for(int i= 1;i<=n;i++) ans = (ans*i)%mod;
+    return ans;
+}
 
-int rec(vector<int>&v, int i,int n,vector<int>&hold,bool started){
-    if(i==n){
-        for(int j=0;j<10;j++) if(v[j]>hold[j]) return 0;
-        return 1;
-    }
-    int ans = 0;
-    for(int j = 0;j<=9;j++){
-        if(!started&&j==0){
-            ans += rec(v,i+1,n,hold,0);
-            continue;
-        }
-        hold[j]++;
-        ans += rec(v,i+1,n,hold,1);
-        hold[j]--;
+int p(int a, int b){
+    int ans = 1;
+    while(b>0){
+        if(b%2==1) ans =( ans * a)%mod;
+        a = a*a;
+        ans%=mod;
+        a%=mod;
+        b/=2;
     }
     return ans;
+}
+
+
+int rec(vector<int>&v, int i,int n,vector<int> &fact,vector<int>& inFact,int d){
+    if(i>=10){
+        return n==0;
+    } 
+    if(dp[i][n]!=-1) return dp[i][n];
+    int ans = 0;
+    for(int j = 0;j<=n;j++){
+        int hold = (rec(v,i+1,n-j,fact,inFact,d))%mod;
+        int hold1 = ((hold*inFact[j + v[i]])%mod);
+        int hold2= 0;
+        if(i==0){
+            if(v[i] + j>0){
+                hold2 = (((hold*inFact[j+v[i]-1])%mod)*fact[d-1])%mod;
+                ans = (ans + (fact[d]*hold1)%mod - hold2 + mod )%mod;
+            }
+            else{
+                ans = (ans + (fact[d]*hold1)%mod)%mod;
+            }
+        }
+        else{
+            ans = (ans + hold1)%mod;
+        }
+    }
+    
+    return dp[i][n] = ans;
 }
 
 void solve()
 {
     int n;
     cin>>n;
-    vector<int> v(10),hold(10,0);
+    vector<int> v(10);
     int sum = 0;
     for (int i = 0; i < 10; i++)
     {
         cin>>v[i];
-        sum+=v[i];
+        sum+= v[i];
     }
+    vector<int> fact(n+1), inFact(n+1);
 
-    if(sum>n) cout<<0<<endl;
-
-    cout<<rec(v,0,n,hold,0);
+    for(int i=0;i<=n;i++){
+        fact[i] = f(i);
+        inFact[i] = p(fact[i],mod - 2);
+    }
+    int ans = 0;
+    for(int i=max(sum,1LL);i<=n;i++){
+        memset(dp,-1,sizeof(dp));
+        int hold = (rec(v,0,i - sum,fact,inFact,i))%mod;
+        ans = (ans + hold)%mod;
+    }
+    cout<<ans<<endl;
 }
 signed main() {
 

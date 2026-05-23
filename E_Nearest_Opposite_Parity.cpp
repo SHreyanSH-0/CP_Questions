@@ -7,43 +7,66 @@ void solve()
 {
     int n;
     cin>>n;
-    vector<int> nums;
+    vector<int> v(n);
     for (int i = 0; i < n; i++)
     {
-        cin>>nums[i];
+        cin>>v[i];
     }
-
-    map<int,vector<int>> map;
-    for(int i=0;i<n-1;i++){
-        map[nums[i]].push_back(i);
-    }
-    int ans = 1e8;
-    priority_queue<pair<int,int>,vector<pair<int,int>>, greater<pair<int,int>>> pq;
-    vector<int> vis(nums.size(),1e8);
-    vis[n-1] = 0;
-    pq.push({0,n-1});
-    while(!pq.empty()){
-        auto it = pq.top();
-        pq.pop();
-        int num = nums[it.second];
-        int step = it.first;
-        if(step>vis[it.second]) continue;
-        int l = sqrt(num);
-        if(it.second - nums[it.second]>=0&&vis[it.second-nums[it.second]]>step+1) {
-            vis[it.second-nums[it.second]]=step+1;
-            pq.push({step+1,it.second-nums[it.second]});
-        }
-        if(it.second + nums[it.second]<n&&vis[it.second+nums[it.second]]>step+1) {
-            vis[it.second+nums[it.second]]=step+1;
-            pq.push({step+1,it.second+nums[it.second]});
-        }
-    }
-
+    vector<vector<int>> graph(n+1);
+    vector<int> ans(n,1e8);
+    queue<int> q;
     for (int i = 0; i < n; i++)
     {
+        if(i + v[i]<n){
+            graph[i + v[i]].push_back(i);
+            if(v[i]%2!=v[i + v[i]]%2){
+                ans[i] = 1;
+                q.push(i);
+            }
+            else{
+                
+            }
+            
+        }
+        else{
+            // q.push(i);
+        }
         
+        if(i - v[i]>=0){
+            graph[i - v[i]].push_back(i);
+            if(v[i]%2!=v[i - v[i]]%2){
+                ans[i] = 1;
+                q.push(i);
+            }
+            else{
+                
+            }
+        }
+        else{
+            // q.push(i);
+        }
     }
-    
+    vector<bool> vis(n,false);
+    while(!q.empty()){
+        int node = q.front();
+        q.pop();
+        if(vis[node]) continue;
+        vis[node] = true;
+
+        for(auto&it : graph[node]){
+            if(v[node]%2==v[it]%2){
+                ans[it] = min(ans[it],1 + ans[node]);
+                q.push(it);
+            }
+        }
+    }
+
+    for (int i = 0; i < n; i++)
+    {
+        if(ans[i]==1e8) cout<<-1<<" ";
+        else
+        cout<<ans[i]<<" ";
+    }
     
 }
 signed main() {
