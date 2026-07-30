@@ -1,82 +1,96 @@
-constexpr int INF=1e6+1, N=24;
-int C[N][N]={{0}};
-
-constexpr void Pascal() {
-    if (C[0][0]==1) return; // computed once
-    C[0][0]=1;
-    for (int i=1; i<N; i++) {
-        C[i][0]=C[i][i]=1;
-        for (int j=1; j<=i/2; j++) {
-            C[i][j]=C[i][i-j]=C[i-1][j-1]+C[i-1][j];
-        }
-    }
-}
-
 class Solution {
 public:
-    static int comb(int n, int k) {
-        if (n<N) return C[n][k];//  look at the table
-        if (2*k>n) k=n-k;// C(n, n-k)=C(n, k)
-        int64_t ans=1;
-        for (int i=1; i<=k; i++) {
-            ans=ans*(n-i+1)/i;
-            if (ans>=INF) return INF;
-        }
-        return ans;
-    }
 
-    static int perm(const array<int, 26>& freq, int sz) {
-        int64_t ans=1;
-        for (int f : freq) {
-            if (f==0) continue;
-            ans*=comb(sz, f);
-            if (ans>=INF) return INF;
-            sz-=f;
-        }
-        return ans;
-    }
-
-    static string smallestPalindrome(string& s, int k) {
-        Pascal();
-        const int n=s.size(), n0=n/2;
-        array<int, 26> freq={0};
-        for (int i=0; i<n0; i++)
-            freq[s[i]-'a']++;
+    long long mod = 1e9 + 7;
+    vector<long long> fact,infact;
+    long long power(long long a, long long b){
+        long long ans = 1;
         
-        int total=perm(freq, n0);
-        if (k>total) return "";
+        while(b > 0){
+            if(b%2==1) ans = (ans*a)%mod;
+            a = (a*a)%mod;
+            b/=2;
+        }
 
-        string left;
-        left.reserve(n);
-        int sz=n0;
-        for (int i=0; i<n0; i++) {
-            for (int c=0; c<26; c++) {
-                if (freq[c]==0) continue;
-                freq[c]--;
-                int cnt=perm(freq, --sz);
-                if (cnt>=k) {
-                    left.push_back('a' + c);
-                    break;
-                } 
-                else {
-                    k -= cnt;
-                    freq[c]++;// backtrack
-                    sz++;
+        return ans;
+    }
+
+    long long inv(long long n){
+        return power(n, mod - 2);
+    }
+
+    long long ncr(int n, int r, int k){
+        long long ans = 1;
+        r = min(r , n- r);
+
+        for(int i=1;i<=r;i++){
+            ans = (ans * (n-r+i))/i;
+            if(ans >= k) return k;
+        }
+        return ans;
+    }
+
+    long long all(vector<int>& map, int n, int k){
+        long long ans = 1;
+        for(int i=0;i<26;i++){
+            if(map[i] > 0){
+                ans = ans * ncr(n, map[i],k);
+                n -= map[i];
+            }
+
+            if(ans >= k) return k;
+        }
+        return ans;
+    }
+
+    string smallestPalindrome(string s, int k) {
+        string ans = "";
+        int n = s.size()/2;
+
+        fact.push_back(1);
+        infact.push_back(1);
+
+        for(int i=1;i<=n;i++){
+            fact.push_back((fact[i-1] * i)%mod);
+            infact.push_back(inv(fact[i]));
+
+        }
+
+
+        vector<int > map(26,0);
+
+        for(int i=0;i<n;i++){
+            map[s[i] - 'a']++;
+        }
+
+        if(all(map,n,k) < k) return ans;
+        
+
+        for(int i=0;i<n;i++){
+            for(char c = 'a';c<='z';c++){
+                if(map[c - 'a'] > 0){
+                    map[c - 'a']--;
+
+                    long long hold = all(map,n-i -1,k);
+
+                    cout<<c<<" "<<hold<<endl;
+                    if(hold >= k){
+                        ans.push_back(c);
+                    cout<<c<<endl;
+                        break;
+                    }
+                    else{
+                        k -= hold;
+                        map[c-'a']++;
+                    }
                 }
             }
         }
 
-        string right=left;
-        reverse(right.begin(), right.end());
-        if (n&1) left.push_back(s[n/2]);
-        left.append(right);
-        return left;
+        if(s.size()%2 == 1) ans.push_back(s[n]);
+
+        for(int i=n-1;i>=0;i--) ans.push_back(ans[i]);
+
+        return ans;
     }
 };
-
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
