@@ -73,10 +73,8 @@ public:
 
                     long long hold = all(map,n-i -1,k);
 
-                    cout<<c<<" "<<hold<<endl;
                     if(hold >= k){
                         ans.push_back(c);
-                    cout<<c<<endl;
                         break;
                     }
                     else{
