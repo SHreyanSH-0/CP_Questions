@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1539-kth-missing-positive-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -97,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
