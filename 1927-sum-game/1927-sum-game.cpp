@@ -22,7 +22,6 @@ public:
 
         int a = (l+r+1)/2;
         int b = (l+r)/2;
-        cout<<left<<" "<<l<<" "<<right<<" "<<r<<endl;
         if(left == right){
             // l - r = 0
             if(l > r || r > l) ans = true;
