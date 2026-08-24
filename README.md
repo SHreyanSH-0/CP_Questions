@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0316-remove-duplicate-letters](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1927-sum-game) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3310-remove-methods-from-project](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -231,8 +233,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0146-lru-cache) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
