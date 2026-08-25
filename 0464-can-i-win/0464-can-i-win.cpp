@@ -1,6 +1,6 @@
+    int dp[1<<20];
 class Solution {
 public:
-    int dp[2000000];
     int rec(int bit, int maxi, int total){
         int hold = bit;
         int sum = 0;
