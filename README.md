@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3310-remove-methods-from-project) |
 ## Two Pointers
 |  |
