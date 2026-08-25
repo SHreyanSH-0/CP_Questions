@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0877-stone-game) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0877-stone-game) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0877-stone-game) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1140-stone-game-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1140-stone-game-ii) |
 | [2029-stone-game-ix](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
