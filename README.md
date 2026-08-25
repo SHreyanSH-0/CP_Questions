@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1140-stone-game-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1140-stone-game-ii) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1140-stone-game-ii) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## DP on Trees
 |  |
@@ -254,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
