@@ -5,7 +5,7 @@ public:
         vector<int> inEdges(numCourses,0);
 
         for(int i=0;i<prerequisites.size();i++){
-            graph[prerequisites[i][0]].push_back(prerequisites[i][1]);
+            graph[prerequisites[i][1]].push_back(prerequisites[i][0]);
         }
 
         for(int i=0;i<numCourses;i++){
@@ -34,7 +34,6 @@ public:
                 }
             }
         }
-        reverse(s.begin(),s.end());
         if(s.size()==numCourses)  return s;
         return {};
     }
