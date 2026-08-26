@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Stack
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2172-maximum-and-sum-of-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2172-maximum-and-sum-of-array) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Recursion
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3310-remove-methods-from-project) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3615-longest-palindromic-path-in-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,4 +279,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [2172-maximum-and-sum-of-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2172-maximum-and-sum-of-array) |
+| [3615-longest-palindromic-path-in-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3615-longest-palindromic-path-in-graph) |
 <!---LeetCode Topics End-->
