@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0056-merge-intervals) |
+| [0295-find-median-from-data-stream](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0295-find-median-from-data-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0295-find-median-from-data-stream) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [4026-maximum-gap-between-stations](https://github.com/SHreyanSH-0/CP_Questions/tree/master/4026-maximum-gap-between-stations) |
 ## Minimax
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0295-find-median-from-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0056-merge-intervals) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
