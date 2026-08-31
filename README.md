@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0056-merge-intervals) |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0877-stone-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1140-stone-game-ii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0295-find-median-from-data-stream) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [4026-maximum-gap-between-stations](https://github.com/SHreyanSH-0/CP_Questions/tree/master/4026-maximum-gap-between-stations) |
 ## Minimax
