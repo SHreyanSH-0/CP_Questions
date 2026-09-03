@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0010-regular-expression-matching) |
+| [0071-simplify-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0071-simplify-path) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
 | [0316-remove-duplicate-letters](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0316-remove-duplicate-letters) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
