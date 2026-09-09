@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0010-regular-expression-matching) |
 | [0071-simplify-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0115-distinct-subsequences) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0210-course-schedule-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
 ## Bitmask
 |  |
