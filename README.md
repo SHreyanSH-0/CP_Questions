@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [1539-kth-missing-positive-number](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1539-kth-missing-positive-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2172-maximum-and-sum-of-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2172-maximum-and-sum-of-array) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
@@ -388,5 +391,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
