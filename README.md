@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0146-lru-cache) |
 | [0952-largest-component-size-by-common-factor](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0222-count-complete-tree-nodes) |
@@ -389,8 +392,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
