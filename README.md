@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0877-stone-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0877-stone-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [1539-kth-missing-positive-number](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1539-kth-missing-positive-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
@@ -418,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
