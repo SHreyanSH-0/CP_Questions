@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0468-validate-ip-address) |
 | [0940-distinct-subsequences-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1143-longest-common-subsequence) |
 | [1387-sort-integers-by-the-power-value](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1563-stone-game-v](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1563-stone-game-v) |
 | [2172-maximum-and-sum-of-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2172-maximum-and-sum-of-array) |
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
