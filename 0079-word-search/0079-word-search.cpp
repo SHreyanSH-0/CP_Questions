@@ -1,39 +1,38 @@
 class Solution {
 public:
-    bool rec(vector<vector<char>> &nums, string &word, string &hold, int i, int j,
-             int index) {
-        if (index == word.size()) {
-            return true;
+    bool dfs(int idx,int i,int j,vector<vector<char>>& board, string& word,vector<vector<int>>&vis){
+        int n= board.size(),m= board[0].size();
+        if(idx==word.size()-1 && board[i][j]==word[idx])return true;
+        if(word[idx]!=board[i][j])return false;
+        vis[i][j]=1;
+        if(i+1<n && !vis[i+1][j]){
+            if(dfs(idx+1,i+1,j,board,word,vis))return true;
         }
+        if(i-1>=0 && !vis[i-1][j]){
+            if(dfs(idx+1,i-1,j,board,word,vis))return true;
+        }
+        if(j+1<m && !vis[i][j+1]){
+            if(dfs(idx+1,i,j+1,board,word,vis))return true;
+        }
+        if(j-1>=0 && !vis[i][j-1]){
+            if(dfs(idx+1,i,j-1,board,word,vis))return true;
+        }
+        vis[i][j]=0;
 
-        if (i < 0 || j < 0 || i >= nums.size() || j >= nums[0].size() ||
-            nums[i][j] == '0' || index >= word.size()) {
-            return false;
-        }
+        return false;
 
-        if (nums[i][j] != word[index]) {
-            return false;
-        } else {
-            hold.push_back(nums[i][j]);
-            char h = nums[i][j];
-            nums[i][j] = '0';
-            bool res =  (rec(nums, word, hold, i, j + 1, index + 1) ||
-                    rec(nums, word, hold, i, j - 1, index + 1) ||
-                    rec(nums, word, hold, i + 1, j, index + 1) ||
-                    rec(nums, word, hold, i - 1, j, index + 1));
-            nums[i][j] = h;
-            return res;
-        }
     }
-
-    bool exist(vector<vector<char>>& nums, string word) {
-        string hold;
-        for (int i = 0; i < nums.size(); i++) {
-            for (int j = 0; j < nums[0].size(); j++) {
-                if (rec(nums, word, hold, i, j, 0))
-                    return true;
+    bool exist(vector<vector<char>>& board, string word) {
+        int n= board.size(),m= board[0].size();
+        vector<vector<int>> vis(n,vector<int>(m,0));
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(board[i][j]==word[0]){
+                    if(dfs(0,i,j,board,word,vis))return true;
+                }
             }
         }
+
         return false;
     }
 };
