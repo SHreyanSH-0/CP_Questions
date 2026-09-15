@@ -12,20 +12,21 @@
 class Solution {
 public:
 
-    TreeNode* rec(vector<int>& preorder, int i , int ub, int lb){
+    TreeNode* rec(vector<int>& preorder, int &i , int ub, int lb){
         if(i >= preorder.size()) return nullptr;
 
-        if(preorder[i] < lb || preorder[i] > ub) return rec(preorder,i+1,ub,lb);
-        
-        TreeNode* node = new TreeNode(preorder[i]);
+        if(preorder[i] < lb || preorder[i] > ub) return nullptr;
 
-        node->left = rec(preorder,i+1,node->val,lb);
-        node->right = rec(preorder,i+1,ub, node->val);
+        TreeNode* node = new TreeNode(preorder[i++]);
+
+        node->left = rec(preorder,i,node->val,lb);
+        node->right = rec(preorder,i,ub, node->val);
 
         return node;
     }
 
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        return rec(preorder,0,INT_MAX,INT_MIN);
+        int i = 0;
+        return rec(preorder,i,INT_MAX,INT_MIN);
     }
 };
