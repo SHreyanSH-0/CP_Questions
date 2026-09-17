@@ -1,6 +1,18 @@
 class Solution {
 public:
     long long mod = 1e9 + 7;
+
+    vector<long long> infact, fact;
+
+    Solution(){
+        infact.push_back(1);
+        fact.push_back(1);
+        for(int i=1;i<=1e5;i++){
+            fact.push_back((fact[i-1]*i)%mod);
+            infact.push_back(inv(fact[i]));
+        }
+    }
+
     long long  power(long long a, long long b){
         long long ans = 1;
         while( b > 0){
@@ -35,13 +47,7 @@ public:
         string temp = "";
         long long ans = 1;
 
-        vector<long long> infact(s.size() + 1), fact(s.size() + 1);
-
-        infact[0] = fact[0] = 1;
-        for(int i=1;i<=s.size();i++){
-            fact[i] = (fact[i-1]*i)%mod;
-            infact[i] = inv(fact[i]);
-        }
+        
 
         for(int i=0;i<s.size();i++){
             if(s[i] == ' ')
