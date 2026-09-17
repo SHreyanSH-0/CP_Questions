@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2514-count-anagrams](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2514-count-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2029-stone-game-ix) |
+| [2514-count-anagrams](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2514-count-anagrams) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -93,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2514-count-anagrams](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2514-count-anagrams) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2029-stone-game-ix) |
+| [2514-count-anagrams](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2514-count-anagrams) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2514-count-anagrams](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2514-count-anagrams) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -469,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0836-rectangle-overlap) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->
