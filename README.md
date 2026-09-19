@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0090-subsets-ii) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0300-longest-increasing-subsequence) |
