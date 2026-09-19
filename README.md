@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0169-majority-element) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0835-image-overlap) |
