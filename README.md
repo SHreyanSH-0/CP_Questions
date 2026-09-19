@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0073-set-matrix-zeroes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0048-rotate-image) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
