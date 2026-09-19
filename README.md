@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0169-majority-element) |
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0486-predict-the-winner) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0169-majority-element) |
 | [0952-largest-component-size-by-common-factor](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2029-stone-game-ix) |
 | [2514-count-anagrams](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2514-count-anagrams) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0295-find-median-from-data-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1387-sort-integers-by-the-power-value) |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0169-majority-element) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -487,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2514-count-anagrams](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2514-count-anagrams) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
