@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2029-stone-game-ix) |
 | [2172-maximum-and-sum-of-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2172-maximum-and-sum-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0212-word-search-ii) |
 | [0835-image-overlap](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2172-maximum-and-sum-of-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2172-maximum-and-sum-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
@@ -518,4 +521,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
