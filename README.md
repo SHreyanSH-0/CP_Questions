@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0115-distinct-subsequences) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
