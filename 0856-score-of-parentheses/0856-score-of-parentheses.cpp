@@ -31,11 +31,7 @@ public:
                 }
             }
         }
-
-        while(!st.empty()) {
-            cout<<st.top()<<" ";
-            st.pop();
-        }
+        
         return ans;
     }
 };
