@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2514-count-anagrams](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2514-count-anagrams) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -572,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0214-shortest-palindrome) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
