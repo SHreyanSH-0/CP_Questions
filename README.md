@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1539-kth-missing-positive-number](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1563-stone-game-v](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2029-stone-game-ix) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2514-count-anagrams](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2514-count-anagrams) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-sort-integers-by-the-power-value](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2172-maximum-and-sum-of-array](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2172-maximum-and-sum-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 ## Memoization
@@ -424,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0464-can-i-win) |
 | [1387-sort-integers-by-the-power-value](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1387-sort-integers-by-the-power-value) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 ## DP on Trees
 |  |
@@ -476,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prime Factorization
 |  |
@@ -502,11 +509,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -521,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0450-delete-node-in-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -537,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Fermat's Little Theorem
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2514-count-anagrams](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2514-count-anagrams) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
