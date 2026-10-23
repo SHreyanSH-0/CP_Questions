@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2920-maximum-points-after-collecting-coins-from-all-nodes) |
 | [2973-find-number-of-coins-to-place-in-tree-nodes](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2973-find-number-of-coins-to-place-in-tree-nodes) |
 | [3310-remove-methods-from-project](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3310-remove-methods-from-project) |
@@ -361,12 +362,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [3310-remove-methods-from-project](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/0210-course-schedule-ii) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1761-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1761-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3310-remove-methods-from-project) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3615-longest-palindromic-path-in-graph) |
@@ -603,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/SHreyanSH-0/CP_Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
