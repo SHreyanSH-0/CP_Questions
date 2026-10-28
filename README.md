@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SHreyanSH-0/CP_Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3615-longest-palindromic-path-in-graph) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3524-find-x-value-of-array-i](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3615-longest-palindromic-path-in-graph](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3615-longest-palindromic-path-in-graph) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SHreyanSH-0/CP_Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
